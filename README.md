@@ -3,8 +3,10 @@
 i love computers <br>
 i love breaking things <br>
 i love fixing things  <br>
-
-
+i work as a platform engineer and focus on securing development pipelines <br>
+i have been known to moonlight as a game developer <br>
+<br>
+avatar artist - twitter.com/SimzArts
 <!--
 **bethdevopsbunny/bethdevopsbunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
