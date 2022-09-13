@@ -1,4 +1,9 @@
-### Hi there 👋
+### bethdevopsbunny - certified computer witch
+
+i love computers <br>
+i love breaking things <br>
+i love fixing things  <br>
+
 
 <!--
 **bethdevopsbunny/bethdevopsbunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
