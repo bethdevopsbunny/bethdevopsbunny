@@ -1,5 +1,5 @@
 
-### &nbsp;&nbsp; 🪄🔮 &nbsp;&nbsp; bethdevopsbunny - certified computer witch &nbsp;&nbsp;🔮🪄
+### &nbsp; &nbsp;&nbsp; bethdevopsbunny 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i love computers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i love breaking things &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💥 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i love fixing things &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠  <br> <br>
