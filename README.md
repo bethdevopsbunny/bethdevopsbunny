@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i love computers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i love breaking things &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💥 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i love fixing things &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠  <br> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i work as a platform engineer and focus on securing development pipelines <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i work as senior devops and focus on securing development pipelines <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i have been known to moonlight as a game developer <br>
 <br>
 
