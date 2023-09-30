@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i work as senior devops and focus on securing development pipelines <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i have been known to moonlight as a game developer <br>
 <br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blog.bethdevopsbunny.com
 
 
 <!--
