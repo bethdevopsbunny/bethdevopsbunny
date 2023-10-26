@@ -8,6 +8,9 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blog.bethdevopsbunny.com
 
+<br>
+due to a change in job, I will not be on github as much 👋
+
 
 <!--
 **bethdevopsbunny/bethdevopsbunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
