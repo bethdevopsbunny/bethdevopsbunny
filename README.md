@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blog.bethdevopsbunny.com
 
 <br>
-due to a change in job, I will not be on github as much 👋
+due to job requirements, I will not be on github as much 👋
 
 
 <!--
