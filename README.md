@@ -10,6 +10,7 @@
 
 <br>
 due to job requirements, I will not be on github as much 👋
+edit: man I wasnt kidding ^^^^ 😅
 
 
 <!--
