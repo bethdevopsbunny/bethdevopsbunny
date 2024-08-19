@@ -1,17 +1,15 @@
 
-### &nbsp; &nbsp;&nbsp; bethdevopsbunny 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i love computers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i love breaking things &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💥 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i love fixing things &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠  <br> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i work as senior devops and focus on securing development pipelines <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i have been known to moonlight as a game developer <br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blog.bethdevopsbunny.com
+### bethdevopsbunny 
 
-<br>
-due to job requirements, I will not be on github as much 👋
-<br>
-edit: man I wasnt kidding ^^^^ 😅
+🎮 senior devops in the gaming industry <br> 
+
+💻 kubernetes, google cloud <br>
+
+ℹ️ games supported by modern infrastructure <br>
+
+
+https://blog.bethdevopsbunny.com <br>
+
 
 
 <!--
