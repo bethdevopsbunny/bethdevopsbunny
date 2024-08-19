@@ -1,6 +1,4 @@
 
-### bethdevopsbunny 
-
 🎮 senior devops in the gaming industry <br> 
 
 💻 kubernetes, google cloud <br>
