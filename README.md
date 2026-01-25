@@ -1,12 +1,10 @@
 
-🎮 senior devops in the gaming industry <br> 
+🎮 senior platform engineer and game developer <br>
 
 💻 kubernetes, google cloud <br>
 
 ℹ️ games supported by modern infrastructure <br>
 
-
-https://blog.bethdevopsbunny.com <br>
 
 
 
